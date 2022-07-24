@@ -7,4 +7,8 @@ Second Part : Bug Report for Linkedin APP uploaded in Excel Sheet (Linkedin Test
 
 Third Part: Automation for Login & Regiteration for facebook web Application unsing (Java, Selenium ,TestNG ,Maven ,DataDriven, testing account, Driver Manager)
 
-Fourth Part: API autaomtion test Cases using Postman including 4 Collections
+Fourth Part: API autaomtion test Cases using Postman including 4 Collections( Products , Categories, Services, Stores)
+  1- collection including automation for Products test cases (get Sepecfied Product , get all Products)
+  2- collection including automation for Services test cases (get Sepecfied Service , get all Services)
+  3- collection including automation for Categories test cases (get Sepecfied category , get all Categories)
+  4- collection including automation for Stores test cases (get Sepecfied Store , get all Stores)
